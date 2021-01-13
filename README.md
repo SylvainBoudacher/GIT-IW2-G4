@@ -1,5 +1,11 @@
 ## Welcom to the repository of **group 4 (IW2)**
 
+BOUDACHER Sylvain
+
+ESEDJI Coraline
+
+PIERRUCI Romain
+
 ***
 
 # Getting Started with Create React App
